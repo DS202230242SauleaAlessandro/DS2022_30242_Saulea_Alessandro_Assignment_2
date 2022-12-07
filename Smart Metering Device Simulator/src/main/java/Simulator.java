@@ -11,9 +11,6 @@ import java.util.Scanner;
 import java.util.UUID;
 import java.util.concurrent.TimeoutException;
 
-// https://niruhan.medium.com/how-to-add-a-config-file-to-a-java-project-99fd9b6cebca
-// https://howtodoinjava.com/jackson/java-8-date-time-type-not-supported-by-default/
-
 public class Simulator {
     public static void main(String[] args) {
         final String QUEUE_NAME = "metering_queue";
