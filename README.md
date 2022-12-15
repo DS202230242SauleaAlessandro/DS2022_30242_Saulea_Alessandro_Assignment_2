@@ -32,3 +32,6 @@ Containerele obtinute prin aceasta ultima procedura arata astfel:
 
 ![image](https://user-images.githubusercontent.com/74377027/207744463-c5a48879-351a-4eda-a140-60e74cefc23e.png)
 
+Serverul de RabbitMQ este rulat in cloud pe CloudAMQP.
+
+![image](https://user-images.githubusercontent.com/74377027/207809009-b13f1b06-3e5e-461f-a59e-b0f75f4b2280.png)
